@@ -1,0 +1,8 @@
+{
+  "trailingComma": "none",
+  "tabWidth": 4,
+  "arrowParens": "always",
+  "singleQuote": true,
+  "bracketSpacing": false,
+  "importOrder": "alphabetical"
+}
